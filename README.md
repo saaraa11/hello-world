@@ -1,5 +1,5 @@
 # hello-world
-###just another reposity
+### just another reposity
 
 tryint to get familier with git 
 
